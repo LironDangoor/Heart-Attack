@@ -1,1 +1,1 @@
-Analyze and predict the chance to have Heart Attack. Implementation and optimization of different algorithms such as logistic regression, XGBoost classifier, K Neighbors, Gaussian NB and SVM. Adjusting result and scoring with AUC/ROC curve.
+
